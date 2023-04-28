@@ -1,7 +1,7 @@
 # Power-BI
 
-
-The dashboard includes various visualizations and metrics related to FIFA 23, such as:
+We have a dataset of FIFA 23
+The dashboard(FIFA 23 REPORT (POWER BI).pbix) includes various visualizations and metrics related to FIFA 23, such as:
 
 Total players.
 
